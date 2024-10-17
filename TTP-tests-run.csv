@@ -1,0 +1,17 @@
+Instance	Time	#Runs
+/TTP/eil51-ttp/eil51_n50_bounded-strongly-corr_01.ttp	51	5
+/TTP/berlin52-ttp/berlin52_n51_bounded-strongly-corr_01.ttp 52 5
+/TTP/st70-ttp/st70_n69_bounded-strongly-corr_01.ttp 70  5
+/TTP/eil76-ttp/eil76_n75_bounded-strongly-corr_01.ttp	76	5
+/TTP/kroA100-ttp/kroA100_n99_bounded-strongly-corr_01.ttp 100 5
+/TTP/kroB100-ttp/kroB100_n99_bounded-strongly-corr_01.ttp   100  5
+/TTP/lin105-ttp/lin105_n104_bounded-strongly-corr_01.ttp   105  5
+/TTP/bier127-ttp/bier127_n126_bounded-strongly-corr_01.ttp   127  5
+/TTP/ts225-ttp/ts225_n224_bounded-strongly-corr_01.ttp   225  5
+/TTP/a280-ttp/a280_n279_bounded-strongly-corr_01.ttp 280 5
+/TTP/lin105-ttp/lin105_n104_uncorr_05.ttp 105 5
+/TTP/lin105-ttp/lin105_n312_bounded-strongly-corr_02.ttp     600 5
+/TTP/lin105-ttp/lin105_n520_uncorr_01.ttp 600 5
+/TTP/a280-ttp/a280_n279_bounded-strongly-corr_01.ttp 600 5
+/TTP/a280-ttp/a280_n1395_uncorr-similar-weights_05.ttp 600 5
+/TTP/a280-ttp/a280_n2790_uncorr_10.ttp 600 5
